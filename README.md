@@ -7,7 +7,7 @@ A simple and beautiful React Native app to store and display your favorite trave
 ## 📱 Screenshots
 
 ### Visual Studio Code
-![Memory Screen - Before Like](./assets/VS.png)
+![Visual Studio Code](./assets/VS.png)
 
 ### Memory Screen (Before Like)
 ![Memory Screen - Before Like](./assets/default.png)
